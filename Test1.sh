@@ -1,4 +1,0 @@
-ls -lrth
-pwd
-date
-
