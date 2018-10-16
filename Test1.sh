@@ -1,0 +1,4 @@
+ls -lrth
+pwd
+date
+
